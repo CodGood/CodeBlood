@@ -1,15 +1,20 @@
-## Hi there, I am Max 👋
+## Hi there, I am Jonathan 👋
 
-[![Contact](https://img.shields.io/badge/Contact-&#128231;-blue.svg)](mailto:yamashi@live.com)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=yamashi.yamashi)
+[![Contact](https://img.shields.io/badge/Contact-&#128231;-blue.svg)](mailto:jonathanlopesom@gmail.com)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=codeblood)
 
 
-* 💻 I am a senior software engineer (MSc) working mostly on video game related projects, I offer consulting for game studios and worked for [Bethesda Softworks](https://bethesda.net/), [ZeniMax Online Studios](https://www.zenimaxonline.com/) and indie studios. 
+* 💻 I am a student FullStack, welcome my world!❄️
 
-* 🩺 I am also finishing my medical doctor's degree and plan on doing research on computer science applied to medicine to take advantage of my knowledge in both areas.
+* 🚶‍♂️ I'm also working in the commercial area but I've always been a technology lover.... oh, and music too! 🎶💻
 
-* 🎮 Currently working on [modding Cyberpunk 77](https://github.com/yamashi/CyberEngineTweaks)
+You can find me here too 👇
 
-## Random stats
+<div>
+<a href="https://instagram.com/sanguebomoficial" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-[![yamashi's github stats](https://github-readme-stats.vercel.app/api?username=yamashi&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.linkedin.com/in/jonathanlopesgc/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
